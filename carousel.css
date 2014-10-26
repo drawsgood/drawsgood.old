@@ -67,6 +67,15 @@ body {
     background-size: cover;
 }
 
+.myImage3 {
+    background-image: url('img/PersonaPixelsUpdate.png');
+    background-size: cover;
+}
+
+.hsContainer {
+
+}
+
 
 
 
@@ -74,6 +83,15 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+
+.move_image {
+  transition: transform 0.1s ease;
+}
+
+.circle_move:hover img{
+  transform: translatey(-10px) scale(1.05,1.05);
+}
+
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;

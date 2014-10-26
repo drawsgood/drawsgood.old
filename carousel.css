@@ -76,13 +76,27 @@ body {
 
 }
 
+/* Contact Form
+-------------------------------------------------- */
 
+.contact_form {
+  margin-top: 100px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
 
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+
+.contact_page_nudge {
+  margin-top: 100px;
+}
 
 .move_image {
   transition: transform 0.1s ease;

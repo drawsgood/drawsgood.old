@@ -88,6 +88,14 @@ body {
     margin: 0 auto;
 }
 
+.top_buffer {
+  margin-top:50px;
+}
+
+.panel_color {
+  background-color: #f8f8f8;
+}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
